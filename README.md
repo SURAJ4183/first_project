@@ -1,3 +1,3 @@
 # first_project
-this is my first git repository
+this is my first git repository. 
 Author - Suraj Kumar
